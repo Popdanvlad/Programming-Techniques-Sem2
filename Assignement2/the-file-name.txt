@@ -1,0 +1,5 @@
+Order id: 490
+Client name: dawd
+Product name: spaclu
+Amount: 4
+Total price: 40
